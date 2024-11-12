@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Wendell Yan
 
 - 🔭 À procura do meu primeiro emprego na programação
-- 🌱 Graduando em Ciência da Computação pela Universidade Federal de Sergipe(
+- 🌱 Graduando em Ciência da Computação pela Universidade Federal de Sergipe(UFS)
 
  <div>
   <a href="https://github.com/WendellYan-dev">
