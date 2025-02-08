@@ -6,7 +6,8 @@
  <div>
   <a href="https://github.com/WendellYan-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendellYan-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellYan-dev&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellYan-dev&layout=compact&theme=dracula&hide=Jupyter%20Notebook,html&cache_seconds=1800"/>
+
 </div>
 
 <div style="display: inline_block"><br>
