@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Olá!!! Eu sou Wendell Yan<br><br>- 🔭 À procura do meu primeiro emprego na programação<br>- 🌱 Graduando em Ciência da Computação pela Universidade Federal de Sergipe(UFS)
 
 
