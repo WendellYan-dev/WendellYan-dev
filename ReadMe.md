@@ -192,13 +192,16 @@ GitHub        ████████████████████
 
 <br><br>
 
-Sistema de monitoramento domiciliar para pacientes pós-AVC.
+Projeto desenvolvido para a disciplina de Engenharia de Software da UFS. O sistema de monitoramento domiciliar utiliza uma <b>arquitetura baseada em API REST</b> e modelação estrutural em UML.
+<br><br>
+O back-end foi construído em <b>Java com Spring Boot</b> e base de dados <b>PostgreSQL</b>, integrado a uma interface mobile desenvolvida no <b>Android Studio</b>.
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=E50914"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-0D0D0D?style=flat-square&logo=springboot&logoColor=E50914"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/Android-0D0D0D?style=flat-square&logo=androidstudio&logoColor=E50914"/>
 
 <br><br>
 
@@ -222,7 +225,16 @@ Sistema de monitoramento domiciliar para pacientes pós-AVC.
 
 <br><br>
 
-Projeto de gamificação e fidelização de clientes,disponível no meu GitHub.
+Projeto pessoal desenvolvido em conjunto com <a href="https://github.com/searaigor">@searaigor</a>. Um <b>SaaS de gamificação e fidelização de clientes</b> para uso comercial, focado em álbuns e figurinhas digitais.
+<br><br>
+A arquitetura do back-end foi estruturada com <b>FastAPI (Python)</b>, persistência em <b>PostgreSQL</b> com gestão de migrações via <b>Alembic</b> e conteinerização utilizando <b>Docker</b>.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=E50914"/>
 
 <br><br>
 
@@ -250,7 +262,15 @@ Projeto de gamificação e fidelização de clientes,disponível no meu GitHub.
 
 <br><br>
 
-Repositório frontend do projeto ColaAqui.
+Interface do SaaS de gamificação desenvolvida em colaboração com <a href="https://github.com/searaigor">@searaigor</a>.
+<br><br>
+A aplicação foi projetada como um <b>PWA (Progressive Web App)</b>, com foco na experiência do utilizador web e mobile, sendo construída utilizando <b>React</b> e <b>TypeScript</b>.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=E50914"/>
+<img src="https://img.shields.io/badge/PWA-0D0D0D?style=flat-square&logo=pwa&logoColor=E50914"/>
 
 <br><br>
 
