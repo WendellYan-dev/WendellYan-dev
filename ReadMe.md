@@ -298,11 +298,9 @@ Outros projetos, estudos e experimentos estão disponíveis no meu GitHub.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=WendellYan-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=F5F5F5" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WendellYan-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=F5F5F5&v=1" height="180" alt="GitHub Stats"/>
 
-  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellYan-dev&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellYan-dev&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&v=1" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -326,7 +324,7 @@ Outros projetos, estudos e experimentos estão disponíveis no meu GitHub.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WendellYan-dev&bg_color=0D0D0D&color=F5F5F5&line=E50914&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WendellYan-dev&bg_color=0D0D0D&color=F5F5F5&line=E50914&point=FFFFFF&area=true&hide_border=true&v=1" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -338,7 +336,7 @@ Outros projetos, estudos e experimentos estão disponíveis no meu GitHub.
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=WendellYan-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=WendellYan-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&v=1" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
