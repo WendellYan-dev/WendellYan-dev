@@ -1,102 +1,122 @@
-<!-- =========================================================
-     WENDELL YAN — GITHUB PROFILE README
-     ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=WENDELL%20YAN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0B0B0B,50:151515,100:E50914"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=E50914&center=true&vCenter=true&width=760&lines=Desenvolvedor+Backend;Python+%7C+Java+%7C+JavaScript+%7C+TypeScript;Spring+Boot+%7C+FastAPI;PostgreSQL+%7C+MySQL+%7C+MongoDB;Docker+%7C+Figma"
-    alt="Typing animation"
-  />
-</p>
-
-<p align="center">
+<div align="center">
+  
+  <!-- Banner Customizado com Typing Animation -->
   <a href="https://github.com/WendellYan-dev">
-    <img src="https://img.shields.io/github/followers/WendellYan-dev?label=Followers&style=for-the-badge&color=E50914&labelColor=0D0D0D" alt="GitHub followers" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Wendell+Yan;Desenvolvedor+Backend;Engenharia+de+Software+%7C+APIs;Transformando+ideias+em+sistemas" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/WendellYan-dev">
-    <img src="https://img.shields.io/github/stars/WendellYan-dev?label=Stars&style=for-the-badge&color=E50914&labelColor=0D0D0D" alt="GitHub stars" />
+
+  <br><br>
+
+  <!-- Redes Sociais -->
+  <a href="https://www.linkedin.com/in/wendellyan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=E50914&labelColor=000000&color=000000" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://www.instagram.com/wendellyan.ss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E50914&labelColor=000000&color=000000" alt="Instagram" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank"> <!-- Substitua pelo seu email se desejar -->
+    <img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=mail.ru&logoColor=E50914&labelColor=000000&color=000000" alt="Email" />
+  </a>
 
----
+  <br><br>
+</div>
 
-## Sobre mim
+<hr style="border: 1px solid #E50914; border-radius: 5px;">
 
-Olá, eu sou **Wendell Yan dos Santos Silva**.
+### 💻 Sobre Mim
 
-Sou **desenvolvedor backend** e utilizo este espaço para reunir projetos, código e experiências de desenvolvimento.
+Desenvolvedor Backend dedicado a projetar e implementar sistemas eficientes, escaláveis e seguros. Minha especialidade é a construção de soluções no lado do servidor, modelagem de banco de dados relacionais e não-relacionais, e o desenvolvimento de APIs robustas. Busco constantemente aprimorar a arquitetura de software para entregar um código limpo, de alta performance e fácil manutenção.
 
-Meu trabalho gira em torno de tecnologias como **Python, Java, JavaScript, TypeScript, Spring Boot e FastAPI**, além de bancos de dados, containers e ferramentas de desenvolvimento.
+<br>
 
-```text
-Backend
-├── Python
-├── Java
-├── JavaScript
-├── TypeScript
-├── Spring Boot
-└── FastAPI
+### 🛠️ Tecnologias e Ferramentas
 
-Databases
-├── PostgreSQL
-├── MySQL
-└── MongoDB
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white&color=000000&labelColor=111111" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white&color=000000&labelColor=111111" alt="Java" />
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white&color=000000&labelColor=111111" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white&color=000000&labelColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&color=000000&labelColor=111111" alt="TypeScript" />
+  <br>
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=white&color=000000&labelColor=111111" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white&color=000000&labelColor=111111" alt="FastAPI" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white&color=000000&labelColor=111111" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white&color=000000&labelColor=111111" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white&color=000000&labelColor=111111" alt="MongoDB" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white&color=000000&labelColor=111111" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white&color=000000&labelColor=111111" alt="Figma" />
+</div>
 
-Tools
-├── Docker
-└── Figma
+<br>
 
-Tecnologias
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c" alt="Linguagens" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql,mongodb" alt="Backend e bancos de dados" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=docker,figma" alt="Ferramentas" /> </p>
-Projetos
-<table> <tr> <td width="50%" valign="top">
-SIMOD
+### 🚀 Projetos em Destaque
 
-Sistema de monitoramento domiciliar para pacientes pós-AVC.
+<div align="center">
+  <a href="https://github.com/WendellYan-dev/SIMOD---Sistema-de-monitoramento-domiciliar-para-pacientes-P-s-AVC">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WendellYan-dev&repo=SIMOD---Sistema-de-monitoramento-domiciliar-para-pacientes-P-s-AVC&bg_color=000000&border_color=E50914&title_color=E50914&text_color=999999&icon_color=E50914&border_radius=5" />
+  </a>
+  <a href="https://github.com/WendellYan-dev/ColaAqui">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WendellYan-dev&repo=ColaAqui&bg_color=000000&border_color=E50914&title_color=E50914&text_color=999999&icon_color=E50914&border_radius=5" />
+  </a>
+  <a href="https://github.com/WendellYan-dev/ColaAqui-frontend">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=WendellYan-dev&repo=ColaAqui-frontend&bg_color=000000&border_color=E50914&title_color=E50914&text_color=999999&icon_color=E50914&border_radius=5" />
+  </a>
+</div>
 
-<p> <a href="https://github.com/WendellYan-dev/SIMOD---Sistema-de-monitoramento-domiciliar-para-pacientes-P-s-AVC"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WendellYan-dev&repo=SIMOD---Sistema-de-monitoramento-domiciliar-para-pacientes-P-s-AVC&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=F5F5F5" width="100%" /> </a> </p> <p align="center"> <a href="https://github.com/WendellYan-dev/SIMOD---Sistema-de-monitoramento-domiciliar-para-pacientes-P-s-AVC"> <img src="https://img.shields.io/badge/Ver%20projeto-111111?style=for-the-badge&logo=github&logoColor=white" alt="Ver SIMOD" /> </a> </p>
-</td>
+<br>
 
-<td width="50%" valign="top">
-ColaAqui
+### 📊 GitHub Analytics
 
-Projeto desenvolvido por mim e disponível no GitHub.
+<div align="center">
+  
+  <!-- Stats & Top Languages -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WendellYan-dev&show_icons=true&bg_color=000000&border_color=E50914&title_color=E50914&text_color=999999&icon_color=E50914&border_radius=5&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellYan-dev&layout=compact&bg_color=000000&border_color=E50914&title_color=E50914&text_color=999999&border_radius=5&hide_border=false" />
 
-<p> <a href="https://github.com/WendellYan-dev/ColaAqui"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WendellYan-dev&repo=ColaAqui&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=F5F5F5" width="100%" /> </a> </p> <p align="center"> <a href="https://github.com/WendellYan-dev/ColaAqui"> <img src="https://img.shields.io/badge/Ver%20projeto-111111?style=for-the-badge&logo=github&logoColor=white" alt="Ver ColaAqui" /> </a> </p>
-</td>
-</tr> <tr> <td width="50%" valign="top">
-ColaAqui — Frontend
+  <br><br>
 
-Repositório frontend do projeto ColaAqui.
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WendellYan-dev&theme=dark&background=000000&border=E50914&stroke=E50914&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=999999&sideLabels=999999&dates=999999&hide_border=false&borderRadius=5" alt="GitHub Streak" />
 
-<p> <a href="https://github.com/WendellYan-dev/ColaAqui-frontend"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WendellYan-dev&repo=ColaAqui-frontend&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=F5F5F5" width="100%" /> </a> </p> <p align="center"> <a href="https://github.com/WendellYan-dev/ColaAqui-frontend"> <img src="https://img.shields.io/badge/Ver%20projeto-111111?style=for-the-badge&logo=github&logoColor=white" alt="Ver ColaAqui frontend" /> </a> </p>
-</td>
+  <br><br>
 
-<td width="50%" valign="middle">
-Mais projetos
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WendellYan-dev&bg_color=000000&color=999999&line=E50914&point=FFFFFF&area=true&hide_border=false&border_color=E50914&title_color=E50914" alt="Activity Graph" />
 
-Tenho outros projetos e experimentos disponíveis no meu GitHub.
+</div>
 
-<p align="center"> <a href="https://github.com/WendellYan-dev?tab=repositories"> <img src="https://img.shields.io/badge/Explorar%20reposit%C3%B3rios-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" /> </a> </p>
-</td>
-</tr> </table>
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WendellYan-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=F5F5F5" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellYan-dev&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5" height="180" alt="Top Languages" /> </p>
-Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=WendellYan-dev&theme=dark&hide_border=true&background=0D0D0D&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=F5F5F5&dates=9E9E9E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" alt="GitHub Streak" /> </p>
-Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=WendellYan-dev&bg_color=0D0D0D&color=F5F5F5&line=E50914&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" /> </p>
-GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WendellYan-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies" /> </p>
-Snake Contribution
-<p align="center"> <img src="https://raw.githubusercontent.com/WendellYan-dev/WendellYan-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" /> </p>
-Conecte-se comigo
-<p align="center"> <a href="https://www.linkedin.com/in/wendellyan/"> <img src="https://img.shields.io/badge/LinkedIn-Wendell%20Yan-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=E50914" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/wendellyan.ss/"> <img src="https://img.shields.io/badge/Instagram-@wendellyan.ss-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=E50914" alt="Instagram" /> </a> <a href="https://github.com/WendellYan-dev"> <img src="https://img.shields.io/badge/GitHub-WendellYan--dev-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E50914" alt="GitHub" /> </a> </p>
-<p align="center"> <sub>Wendell Yan dos Santos Silva</sub> <br /> <sub>Backend Developer</sub> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:E50914,50:151515,100:0B0B0B" width="100%" /> </p>
+<br>
+
+### 🏆 Troféus
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=WendellYan-dev&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&text-color=E50914" alt="Wendell Yan Trophies" />
+  </a>
+</div>
+
+<br>
+
+### 🐍 Contribuições (Snake)
+
+<div align="center">
+  <!-- 
+    Nota: Para que a cobrinha funcione e seja gerada, você precisa configurar o GitHub Actions no seu repositório especial (WendellYan-dev/WendellYan-dev).
+    O link abaixo pressupõe que a Action gera a imagem na branch 'output'. 
+  -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendellYan-dev/WendellYan-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WendellYan-dev/WendellYan-dev/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/WendellYan-dev/WendellYan-dev/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <p style="color: #999999; font-size: 12px;">
+    Desenvolvido com ☕ e focado em código limpo por <a href="https://github.com/WendellYan-dev" style="color: #E50914; text-decoration: none;">Wendell Yan</a> • 2026
+  </p>
+</div>
