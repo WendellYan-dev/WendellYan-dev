@@ -360,20 +360,20 @@ Outros projetos, estudos e experimentos estão disponíveis no meu GitHub.
 
 <br>
 
+<a href="mailto:wendellyan1503@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=E50914&v=2" alt="Gmail"/>
+</a>
+ 
 <a href="https://www.linkedin.com/in/wendellyan/">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=E50914" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=E50914&v=2" alt="LinkedIn"/>
 </a>
-
- 
-
+ 
 <a href="https://www.instagram.com/wendellyan.ss/">
-<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=E50914" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=E50914&v=2" alt="Instagram"/>
 </a>
-
- 
-
+ 
 <a href="https://github.com/WendellYan-dev">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E50914" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E50914&v=2" alt="GitHub"/>
 </a>
 
 </div>
